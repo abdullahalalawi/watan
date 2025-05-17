@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Watan Hotel Monthly Rental Poster</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #2b7a78;
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .rates {
+      background: #e0f7fa;
+      padding: 15px;
+      border-left: 5px solid #2b7a78;
+    }
+    .note {
+      font-style: italic;
+      color: #666;
+    }
+    a {
+      color: #00695c;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Watan</h1>
+  <p style="text-align: center;">Feel at home — away from home!</p>
+
+  <div class="section">
+    <h2>📍 Location</h2>
+    <p>Dammam – Al-Nuzha District<br>
+    At the intersection of Riyadh Road and Dhahran Road<br>
+    Opposite Al Othaim Mall</p>
+  </div>
+
+  <div class="section rates">
+    <h2>🛏️ Monthly Rental Rates</h2>
+    <ul>
+      <li>SAR 4,500 – 2 Bedrooms + Living Room</li>
+      <li>SAR 4,000 – 1 Bedroom + Spacious Living Room (Glass Front)</li>
+      <li>SAR 3,750 – 1 Bedroom + Small Living Room (Glass Front)</li>
+      <li>SAR 3,750 – 1 Bedroom + Spacious Living Room</li>
+      <li>SAR 3,500 – 1 Bedroom + Medium Living Room</li>
+      <li>SAR 3,250 – 1 Bedroom + Small Living Room</li>
+      <li>SAR 2,500 – 1 Bedroom + Small Living Room (Window A/C)</li>
+    </ul>
+    <p>+ SAR 125 one-time contract fee with the first month only.</p>
+  </div>
+
+  <div class="section">
+    <h2>💡 Included Services</h2>
+    <ul>
+      <li>High-speed fiber internet</li>
+      <li>Electricity and water</li>
+      <li>American-style mini kitchen (sink, fridge, electric stove, kettle or coffee maker)</li>
+      <li>Smart TV with YouTube & Netflix</li>
+      <li>CCTV at all entrances and exits</li>
+      <li>Shaded parking spaces</li>
+      <li>Clean and quiet environment</li>
+      <li>Free self-service laundry on ground floor</li>
+      <li>Free kitchen and cleaning tools (subject to availability)</li>
+    </ul>
+    <p class="note">Smoking is strictly prohibited inside the suites.</p>
+  </div>
+
+  <div class="section">
+    <h2>📅 Advance Payment Discounts</h2>
+    <ul>
+      <li>5% off – 3 months upfront</li>
+      <li>10% off – 6 months upfront</li>
+      <li>15% off – 12 months upfront</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🔗 Useful Links</h2>
+    <ul>
+      <li><a href="http://www.location.watanhotel.com">Location Map</a></li>
+      <li><a href="http://www.photos.watanhotel.com">Suite Photos</a></li>
+      <li><a href="http://www.videos.watanhotel.com">Suite Video</a></li>
+      <li><a href="http://www.whatsapp.watanhotel.com">WhatsApp Booking</a></li>
+    </ul>
+  </div>
+
+  <p>🚪 You're welcome to visit the property for a tour at any time.</p>
+  <p><strong>At Watan, your comfort is our priority, and your presence is our pleasure.</strong></p>
+</body>
+</html>
